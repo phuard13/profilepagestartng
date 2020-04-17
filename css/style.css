@@ -1,5 +1,5 @@
 body {
-  background: url("/img/b2.jpeg") no-repeat;
+  background: url(/img/b2.jpeg) no-repeat;
   background-size: cover;
   font-family: Arial, Helvetica, sans-serif;
   color: #3c3939;
